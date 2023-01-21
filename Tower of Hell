@@ -220,4 +220,4 @@ end)
 Toggle3:CreateKeybind(tostring(Config.Keybind):gsub("Enum.KeyCode.", ""), function(Key)
         Config.Keybind = Enum.KeyCode[Key]
 end)
-local Section4 = Tab2:CreateSection("Old | NoMoreLife#6829")
+local Section4 = Tab2:CreateSection(" NoMoreLife#6829")
